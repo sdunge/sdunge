@@ -1,5 +1,5 @@
  <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Seungah's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Seungah's GitHub">
     </div>
          <a href=노 션 아 이 디> <img src="https://www.notion.so/2edc87f9e38680fdb2a7cb9f87966457"> </a>
          <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sdunge222@gmail.com"> </a>
