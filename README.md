@@ -2,10 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00fbff&height=180&text=Seungah's%20GitHub!&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 
+<br>
+<br>
+
 <div align="center"> 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Data-Driven Problem Solver | Python & AI</h2>  
   <p style="font-weight: 700; font-size: 15px; color: #282d33;">새로운 도전을 즐기며, 밝은 에너지로 팀을 감싸며 아름다운 인터페이스를 만드는 것을 좋아하는 개발자입니다.</p> 
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🛠️ Tech Stacks</h2>
