@@ -43,12 +43,17 @@
 </div>
 
 
-  ## 🌟 Projects
+<div align="center">
+
+## 🌟 Projects
+
 | Project name | Languages | Made via | Last update |
 |:---:|:---:|:---:|:---:|
 | [legal_consultation_automation](https://github.com/sdunge/legal-consultation-automation) | JavaScript | Visual Studio Code | 2026-03-18 |
 | [Brewmap_seoul](https://github.com/sdunge/Brewmap_seoul) | Jupyter | Visual Studio Code | 2026-03-06 |
 | [용왕의 한 수](https://github.com/sdunge/NAVIS_fishing_project) | Python | Visual Studio Code | 2026-01-10 |
+
+</div>
 
 
 
