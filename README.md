@@ -58,11 +58,11 @@
 
 ## 🌟 Projects
 
-| Project name | Languages | Made via | Last update |
+| Project name | Languages | Made via | period |
 |:---:|:---:|:---:|:---:|
-| [legal_consultation_automation](https://github.com/sdunge/legal-consultation-automation) | JavaScript,Google app scripts | Visual Studio Code | 2026-03-18 |
-| [Brewmap_seoul](https://github.com/sdunge/Brewmap_seoul) | Python,ML | Visual Studio Code | 2026-03-06 |
-| [용왕의 한 수](https://github.com/sdunge/NAVIS_fishing_project) | Python,ML,DL | Visual Studio Code | 2026-01-10 |
+| [legal_consultation_automation](https://github.com/sdunge/legal-consultation-automation) | JavaScript,Google app scripts | Visual Studio Code | 2026-03-18 ~ 2026-04-02|
+| [Brewmap_seoul](https://github.com/sdunge/Brewmap_seoul) | Python,ML | Visual Studio Code | 2026-01-19 ~ 2026-03-06 |
+| [용왕의 한 수](https://github.com/sdunge/NAVIS_fishing_project) | Python,ML,DL | Visual Studio Code | 2025-11-19 ~ 2026-01-10 |
 
 </div>
 
