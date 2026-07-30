@@ -6,8 +6,8 @@
 <br>
 
 <div align="center"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Data-Driven Problem Solver | Python & AI</h2>  
-  <p style="font-weight: 700; font-size: 15px; color: #282d33;">새로운 도전을 즐기며, 밝은 에너지로 팀을 감싸며 아름다운 인터페이스를 만드는 것을 좋아하는 개발자입니다.</p> 
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Data-Driven Problem Solver | Python & SQL & statistics </h2>  
+  <p style="font-weight: 700; font-size: 15px; color: #282d33;">새로운 도전을 즐기며, 밝은 에너지로 팀과 협업하고 법무법인 송무팀에서 데이터를 다루며 주니어 데이터 분석가로 정착 중인 주니어 데이터 분석가 조승아입니다. </p> 
 </div>
 
 <br>
@@ -60,9 +60,9 @@
 
 | Project name | Languages | Made via | period |
 |:---:|:---:|:---:|:---:|
-| [legal_consultation_automation](https://github.com/sdunge/legal-consultation-automation) | JavaScript,Google app scripts | Visual Studio Code | 2026-03-18 ~ 2026-04-02|
-| [Brewmap_seoul](https://github.com/sdunge/Brewmap_seoul) | Python,ML | Visual Studio Code | 2026-01-19 ~ 2026-03-06 |
-| [용왕의 한 수](https://github.com/sdunge/NAVIS_fishing_project) | Python,ML,DL | Visual Studio Code | 2025-11-19 ~ 2026-01-10 |
+| [legal_consultation_automation](https://github.com/sdunge/legal-consultation-automation) | JavaScript,Google app scripts | Visual Studio Code | 2026-03 ~ 2026-04 |
+| [Brewmap_seoul](https://github.com/sdunge/Brewmap_seoul) | Python,ML | Visual Studio Code | 2026-01 ~ 2026-03 |
+| [용왕의 한 수](https://github.com/sdunge/NAVIS_fishing_project) | Python,ML,DL | Visual Studio Code | 2025-11 ~ 2026-01 |
 
 </div>
 
